@@ -7,3 +7,6 @@ This dataset contains over 450,000 records of customer and broker information re
 methods.This extensive dataset thoroughly analyzes the variables influencing a customer's decision to use direct debit as their payment method.
 
 Allianz has poor client adoption rates, even though it offers direct debit to collect insurance premiums. This makes it difficult to guarantee consistent financial inflows, minimize late payments, and cut administrative costs. For Allianz to create focused initiatives to increase acceptance and fortify its premium collecting process, The biggest question we're trying to answer is: why don't some people sign up for automatic payments? To solve that, we'll analyze the data to see if a customer's age, a broker's location, or a policy's details have anything to do with it.
+
+
+Remove payment frequency for better evaluation. Payment frequency is the most important data.
